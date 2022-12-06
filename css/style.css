@@ -10,17 +10,20 @@ body {
 section {
   position: relative;
 }
-
+h1 {
+  font-family: "IBM Plex Sans", sans-serif;
+  color: #000000;
+  text-align: left
+}
 .info {
   margin: 0;
-  width: 500px;
   display: inline-block;
   padding: 10px;
 }
 
 h2 {
   font-family: "IBM Plex Sans", sans-serif;
-  color: #1c30a0;
+  color: #000000;
   text-align: left;
 }
 
@@ -34,42 +37,40 @@ P {
 img {
   width: 500px;
   height: auto;
-  float: left;
+  float: right;
   padding: 10px;
   margin: 10px 14px auto 6px;
 }
 
 .about_me {
   margin: 0;
-  width: 500px;
   display: inline-block;
   padding: 10px;
 }
 
 .education {
   margin: 0;
-  width: 500px;
   display: inline-block;
   padding: 10px;
 }
 
 .work_exp {
   margin: 0;
-  width: 500px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.hobby {
+  margin: 0;
   display: inline-block;
   padding: 10px;
 }
 
 quote {
   font-family: "Open Sans", sans-serif;
-  background-color: #fcffdc;
+  /* background-color: #ffffa9; */
   display: block;
   padding: 16px 24px;
-  border-left: 3px solid #f9d77c;
+  /* border-left: 3px solid #bf8f10; */
   line-height: normal;
-  /* font-style: italic; */
-}
-
-strong{
-    font-weight: 600;
 }
