@@ -22,7 +22,7 @@ ul {
   font-family: 'Open Sans', sans-serif;
   max-width: 64rem;
   gap: 1rem;
-  padding: 0.5rem;
+  padding: 1rem;
   flex-direction: column;
 }
 .cv-head,
@@ -62,6 +62,9 @@ ul {
   font-weight: 600;
   /* float: right; */
   margin-left: 0.25rem;
+}
+.info-block--mb{
+	margin-bottom:1rem;
 }
 .info-block quote {
   display: block;
