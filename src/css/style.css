@@ -1,0 +1,62 @@
+* {
+    padding: 0px;
+}
+
+body {
+    font-size: 20px;
+    line-height: 27px;
+}
+
+section {
+    position: relative;
+}
+
+.info {
+    margin: 0;
+    width: 500px;
+    display: inline-block;
+    padding: 10px;
+}
+
+
+h2 {
+    font-family: 'IBM Plex Sans', sans-serif;
+    color: #1c30a0;
+    text-align: left
+}
+
+P {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: black;
+    margin: 0 0 .60em 0;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    float: left;
+    padding: 10px;
+    margin: 10px 14px auto 6px;
+}
+
+.about_me {
+    margin: 0;
+    width: 500px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.education {
+    margin: 0;
+    width: 500px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.work_exp {
+    margin: 0;
+    width: 500px;
+    display: inline-block;
+    padding: 10px;
+}
