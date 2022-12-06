@@ -6,7 +6,7 @@ a {
 }
 h1,
 h2 {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: 'IBM Plex Sans';
 }
 ul {
   list-style: none;
@@ -19,7 +19,7 @@ ul {
 }
 .content {
   display: flex;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans';
   max-width: 64rem;
   gap: 1rem;
   padding: 1rem;
@@ -44,7 +44,7 @@ ul {
 .cv-head_photo img {
   width: 100%;
   padding-top: 1rem;
-  max-height: 17.125rem;
+  max-height: 19.75rem;
   object-fit: contain;
 }
 .content_info {
@@ -63,8 +63,8 @@ ul {
   /* float: right; */
   margin-left: 0.25rem;
 }
-.info-block--mb{
-	margin-bottom:1rem;
+.info-block--mb {
+  margin-bottom: 1rem;
 }
 .info-block quote {
   display: block;
